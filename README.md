@@ -45,8 +45,8 @@ Improvement Opportunities:
 
 ## Usage
 
-Launch live site: [https://vinniewaan.github.io/Quip-Spot/](https://vinniewaan.github.io/Quip-Spot/)
-GitHub Repo link: [https://github.com/VinnieWaan/Quip-Spot/](https://github.com/VinnieWaan/Quip-Spot/)
+- Launch live site: [https://vinniewaan.github.io/Quip-Spot/](https://vinniewaan.github.io/Quip-Spot/)
+- GitHub Repo link: [https://github.com/VinnieWaan/Quip-Spot/](https://github.com/VinnieWaan/Quip-Spot/)
 ![Quip-Spot Home Page](assets/images/Quip-spot_home.png)
 ![Quip-Spot Icons](assets/images/Quip-Spot_homev2.png)
 
