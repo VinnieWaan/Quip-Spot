@@ -4,7 +4,7 @@
 
 - [Description](#Description)
 - [Features](#Features)
-- [Lessons Learned](# "Lessons Learned")
+- [Lessons Learned](#-Lessons-Learned)
 - [Improvement Opportunities](# "Improvement Opportunities")
 - [Usage](#Usage)
 - [Credits](#Credits)
